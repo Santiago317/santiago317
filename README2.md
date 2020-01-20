@@ -1,7 +1,7 @@
 ¿Qué es Hadoop?, ¿Quien lo desarrolló?, ¿Para qué sirve?
 Apache Hadoop es un framework de software que soporta aplicaciones distribuidas bajo una licencia libre.
 Desarrollado por Apache Software Foundation
-Sirve para trabajar con miles de nodos y petabytes de datos.}
+Sirve para trabajar con miles de nodos y petabytes de datos.
 
 ¿Qué es FLUME?, ¿Quien lo desarrolló?, ¿Para qué sirve?
 Apache Flume es un servicio distribuido, fiable, y altamente disponible para recopilar, agregar, y mover eficientemente grandes cantidades de datos. Tiene una arquitectura sencilla y flexible basada en flujos de datos en streaming.
@@ -19,11 +19,12 @@ Desarrollado por MongoDB Inc.
 Sirve para En lugar de guardar los datos en tablas, tal y como se hace en las bases de datos relacionales, MongoDB guarda estructuras de datos BSON con un esquema dinámico, haciendo que la integración de los datos en ciertas aplicaciones sea más fácil y rápida.
 
 ¿Qué es Docker?, ¿Quien lo desarrolló?, ¿Para qué sirve?
-Docker es un proyecto de código abierto que automatiza el despliegue de aplicaciones dentro de contenedores de software, proporcionando una capa adicional de abstracción y automatización de virtualización de aplicaciones en múltiples sistemas operativos.
+Docker es un proyecto de código abierto que automatiza el despliegue de aplicaciones dentro de contenedores de software, proporcionando una capa adicional de abstracción y automatización de virtualización de aplicacion es en múltiples sistemas operativos.
 Desarrollado por Docker Inc.
 Un contenedor es más ligero, ya que mientras que a una máquina virtual necesitas instalarle un sistema operativo para funcionar, un contenedor de Docker funciona utilizando el sistema operativo que tiene la máquina en la que se ejecuta el contenedor.
 
 ¿Qué es SPARK?, ¿Quien lo desarrolló?, ¿Para qué sirve?
- es un framework de computación en clúster open-source.
- Desarrollado por Apache Software Foundation
-Sirve para datos distribuidos diseñado para ser rápido y de propósito genera
+es un framework de computación en clúster open-source.
+Desarrollado por Apache Software Foundation
+Sirve para datos distribuidos diseñado para ser rápido y de propósito general.
+
