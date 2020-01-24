@@ -1,4 +1,4 @@
-#Introducción a BIG-DATA
+Introducción a BIG-DATA
 
 Investigar
 
